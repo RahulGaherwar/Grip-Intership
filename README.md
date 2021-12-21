@@ -15,11 +15,19 @@ Database contains two Tables - Users Table & Transaction Table
 
 User table have basic fields such as name, email & current balance.
 Transaction table records all transfers happened.
+
 Steps to run program on local host :
+
 Download all files from this github repo.
+
 Download and setup XAMPP
+
 Copy downloaded folder inside XAMPP/htdocs folder
+
 In XAMPP start APACHE and MYSQL
+
 Setup sql with mysql admin panel
+
 open web browser and go to localhost/(name of folder you copied in step 3)
+
 Done!
